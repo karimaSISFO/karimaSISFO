@@ -1,45 +1,47 @@
-# Hi there 👋, I'm Arya Bintang Kusuma Wijaya
+# Hi there 👋, I'm Karima
 
 ### 💻 Informatics Student | Backend Developer | Linux Enthusiast
 
-I'm an Informatics student who enjoys building web applications, learning backend technologies, networking, and exploring Linux servers. I love creating scalable systems and continuously improving my programming skills through real-world projects.
+Welcome to my GitHub profile!
+
+I'm passionate about software development, backend engineering, Linux, networking, and modern web technologies. I enjoy solving problems, building scalable applications, and continuously learning new technologies.
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Informatics Student
-* 🌱 Currently learning **Laravel, Docker, Linux Server, Networking, and Python**
-* 💡 Interested in Backend Development, DevOps, Cyber Security, and System Administration
-* 🎯 Goal: Become a Professional Software Engineer & Backend Developer
-* 📍 Indonesia
+* 🌱 Currently learning Laravel, Docker, Linux, Networking, and Python
+* 💡 Interested in Backend Development, DevOps, System Administration, and Cyber Security
+* 🔭 Always working on improving my skills through personal projects
+* ⚡ Love building useful applications and exploring new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,cpp,java,js" />
+<img src="https://skillicons.dev/icons?i=php,python,cpp,java,javascript" />
 </p>
 
-### Web Development
+### Frameworks & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,html,css,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=laravel,html,css,bootstrap,tailwind" />
 </p>
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode" />
 </p>
 
 ---
@@ -47,8 +49,9 @@ I'm an Informatics student who enjoys building web applications, learning backen
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -56,15 +59,15 @@ I'm an Informatics student who enjoys building web applications, learning backen
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4" />
 </p>
 
 ---
@@ -77,36 +80,22 @@ I'm an Informatics student who enjoys building web applications, learning backen
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Current Focus
 
-* 📚 Laboratory Management System (Laravel)
-* 🐳 Docker Development Environment
-* 🌐 Linux Web Server
-* 📊 Data Visualization with Python
-* 🔐 Networking & Security Labs
+* 🐳 Docker & Containerization
+* 🌐 Linux Server Administration
+* ⚙️ Laravel Backend Development
+* 📊 Python Data Analysis
+* 🔐 Networking & Cyber Security
 
 ---
 
-## 📫 Connect with Me
+## 💬 Favorite Quote
 
-<p>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+> *"Success isn't about knowing everything—it's about never stopping learning."*
 
 ---
 
 <p align="center">
-
-> **"Keep Learning, Keep Building, Keep Growing."**
-
+⭐ Thanks for visiting my profile! ⭐
 </p>
