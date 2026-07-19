@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Karima
-### 💻 Full-Stack Developer | UI/UX Designer | Mobile Developer | Network Engineer
+### 💻 UI/UX Designer | Mobile Developer | Network Engineer
 
 ---
 
