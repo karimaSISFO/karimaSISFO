@@ -1,101 +1,51 @@
 # Hi there 👋, I'm Karima
-
-### 💻 Informatics Student | Backend Developer | Linux Enthusiast
-
-Welcome to my GitHub profile!
-
-I'm passionate about software development, backend engineering, Linux, networking, and modern web technologies. I enjoy solving problems, building scalable applications, and continuously learning new technologies.
+### 💻 Full-Stack Developer | UI/UX Designer | Mobile Developer | Network Engineer
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Informatics Student
-* 🌱 Currently learning Laravel, Docker, Linux, Networking, and Python
-* 💡 Interested in Backend Development, DevOps, System Administration, and Cyber Security
-* 🔭 Always working on improving my skills through personal projects
-* ⚡ Love building useful applications and exploring new technologies
+I craft complete digital solutions — from pixel-perfect UIs and cross-platform
+mobile apps to scalable backends and secure network infrastructure.
+I believe great software isn't just functional; it's beautiful, fast, and reliable.
+
+- 🎓 Informatics Student — bridging design, development, and networking
+- 🎨 Passionate about **UI/UX Design** — user research, wireframing, prototyping
+- 📱 Building cross-platform apps with **Flutter & Dart**
+- 🌐 Skilled in **network design, security, and administration**
+- ⚙️ Backend expertise: **Laravel, Python, Docker, Linux**
+- 🔐 Exploring **Cyber Security** and ethical hacking
+- 💡 Always building — currently shipping full-stack + mobile projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🎨 UI/UX & Design
+Figma · Adobe XD · Wireframing · Prototyping · Design Systems · Responsive Design
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,python,cpp,java,javascript" />
-</p>
+### 📱 Mobile Development
+Flutter · Dart · Android · REST API Integration · State Management
 
-### Frameworks & Web
+### 🌐 Networking & Security
+TCP/IP · Cisco · Wireshark · Firewall · VPN · Network Administration
 
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,html,css,bootstrap,tailwind" />
-</p>
+### ⚙️ Backend & Infrastructure
+Laravel · PHP · Python · Docker · Linux · Nginx · MySQL
 
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
+### 🛠️ Tools
+Git · GitHub · VS Code · Figma · Linux Terminal
 
 ---
 
 ## 🚀 Current Focus
 
-* 🐳 Docker & Containerization
-* 🌐 Linux Server Administration
-* ⚙️ Laravel Backend Development
-* 📊 Python Data Analysis
-* 🔐 Networking & Cyber Security
+- 🎨 UI/UX Design & Prototyping
+- 📱 Mobile App Development (Flutter)
+- 🌐 Network Engineering & Security
+- 🐳 Docker & DevOps Automation
+- ⚙️ Laravel Backend & REST APIs
 
 ---
 
-## 💬 Favorite Quote
-
-> *"Success isn't about knowing everything—it's about never stopping learning."*
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+> "I don't just write code — I design, build, and connect."
