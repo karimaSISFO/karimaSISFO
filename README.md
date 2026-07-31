@@ -99,7 +99,7 @@ quote       : "Great software isn't just functional — it's beautiful."
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimaSISFO&bg_color=f0eaff&color=9b72cf&line=a8d8ea&point=c9b6e4&area=true&hide_border=true" width="100%"/>
 </picture>
 
 </div>
