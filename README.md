@@ -108,7 +108,7 @@ vibe        : Turning ideas into interfaces, one pixel at a time
 
 <div align="center">
 
-> *"I don't just write code — I design, build, and craft every detail with intention."* ✦
+> *"Stop judge presiden"* ✦
 
 </div>
 
