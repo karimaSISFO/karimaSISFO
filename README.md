@@ -110,7 +110,7 @@ quote       : "Great software isn't just functional — it's beautiful."
 
 <div align="center">
 
-| 🎨 UI/UX Design | 📱 Flutter Apps | 🌐 Networking | ⚙️ Laravel Backend |
+| 🎨 UI/UX Design | 📱 Mobile Apps | 🌐 Networking | ⚙️ Laravel Backend |
 |:-:|:-:|:-:|:-:|
 | Figma · Prototyping | Dart · Android | Cisco · Network Design | PHP · MySQL |
 
