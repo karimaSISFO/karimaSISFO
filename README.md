@@ -15,15 +15,6 @@
 <div align="center">
 
 
-╭──────────────────────────────────────────────────────╮                    
-│                                                      │
-│   name       : Karima                                │
-│   campus     : Universitas Muslim Indonesia          │
-│   city       : Makassar, Indonesia                   │
-│   passion    : Design that feels · Code that works   │      
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-
 
 </div>
 
@@ -34,10 +25,9 @@
 ```yaml
 name        : Karima
 university  : Universitas Muslim Indonesia
-location    : Makassar, Indonesia 🌴
-focus       : UI/UX Design · Flutter · Laravel · Networking
-vibe        : Turning ideas into interfaces, one pixel at a time 🪄
-quote       : "Great software isn't just functional — it's beautiful."
+location    : Makassar, Indonesia 
+focus       : UI/UX Design · Mobile Android
+vibe        : Turning ideas into interfaces, one pixel at a time 
 ```
 
 ---
