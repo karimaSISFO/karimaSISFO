@@ -32,31 +32,31 @@ vibe        : Turning ideas into interfaces, one pixel at a time
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 🎨 Design & UI/UX
+###  Design & UI/UX
 ![Figma](https://img.shields.io/badge/Figma-c9b6e4?style=for-the-badge&logo=figma&logoColor=4a2f7a)
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-a8d8ea?style=for-the-badge&logo=adobe-xd&logoColor=1a5f7a)
 ![Prototyping](https://img.shields.io/badge/Prototyping-b8f2e6?style=for-the-badge&logo=framer&logoColor=1a5f5a)
 
-### 📱 Mobile Development
+###  Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-c9b6e4?style=for-the-badge&logo=flutter&logoColor=4a2f7a)
 ![Dart](https://img.shields.io/badge/Dart-a8d8ea?style=for-the-badge&logo=dart&logoColor=1a5f7a)
 ![Android](https://img.shields.io/badge/Android-b8f2e6?style=for-the-badge&logo=android&logoColor=1a5f5a)
 
-### ⚙️ Backend & Database
+###  Backend & Database
 ![Laravel](https://img.shields.io/badge/Laravel-c9b6e4?style=for-the-badge&logo=laravel&logoColor=4a2f7a)
 ![PHP](https://img.shields.io/badge/PHP-a8d8ea?style=for-the-badge&logo=php&logoColor=1a5f7a)
 ![Python](https://img.shields.io/badge/Python-b8f2e6?style=for-the-badge&logo=python&logoColor=1a5f5a)
 ![MySQL](https://img.shields.io/badge/MySQL-c9b6e4?style=for-the-badge&logo=mysql&logoColor=4a2f7a)
 
-### 🌐 Networking
+###  Networking
 ![Cisco](https://img.shields.io/badge/Cisco-a8d8ea?style=for-the-badge&logo=cisco&logoColor=1a5f7a)
 ![Network Design](https://img.shields.io/badge/Network%20Design-b8f2e6?style=for-the-badge&logo=openwrt&logoColor=1a5f5a)
 
-### 🧰 Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-c9b6e4?style=for-the-badge&logo=git&logoColor=4a2f7a)
 ![GitHub](https://img.shields.io/badge/GitHub-a8d8ea?style=for-the-badge&logo=github&logoColor=1a5f7a)
 ![VS Code](https://img.shields.io/badge/VS%20Code-b8f2e6?style=for-the-badge&logo=visual-studio-code&logoColor=1a5f5a)
@@ -65,7 +65,7 @@ vibe        : Turning ideas into interfaces, one pixel at a time
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -78,7 +78,7 @@ vibe        : Turning ideas into interfaces, one pixel at a time
 
 ---
 
-## 🌿 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -104,7 +104,7 @@ vibe        : Turning ideas into interfaces, one pixel at a time
 
 ---
 
-## 🌙 Quote
+##  Quote
 
 <div align="center">
 
