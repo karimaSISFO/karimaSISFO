@@ -14,20 +14,16 @@
 
 <div align="center">
 
-```
-╭──────────────────────────────────────────────────────╮
+
+╭──────────────────────────────────────────────────────╮                    
 │                                                      │
-│   karima@umi:~$ cat about_me.yaml                    │
-│                                                      │
-│   name       : Karima                               │
+│   name       : Karima                                │
 │   campus     : Universitas Muslim Indonesia          │
-│   city       : Makassar, Indonesia 🌴               │
-│   passion    : Design that feels · Code that works  │
-│   motto      : "Beautiful software starts with      │
-│                 thoughtful design." ✦               │
+│   city       : Makassar, Indonesia                   │
+│   passion    : Design that feels · Code that works   │      
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
-```
+
 
 </div>
 
