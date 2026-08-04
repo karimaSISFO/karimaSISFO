@@ -22,7 +22,7 @@
 
 ## ✦ About Me
 
-```yaml
+```
 name        : Karima
 university  : Universitas Muslim Indonesia
 location    : Makassar, Indonesia 
