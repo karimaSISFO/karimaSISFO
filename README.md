@@ -79,20 +79,6 @@ Interested In:
 
 ---
 
-# 🚀 Current Mission
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Building
-
-- 📱 Modern Android Applications
-- 🎨 Pixel Perfect UI Design
-- ⚡ Responsive Mobile Experiences
-- 🔥 Clean Architecture Projects
-
-</td>
 
 <td width="50%">
 
