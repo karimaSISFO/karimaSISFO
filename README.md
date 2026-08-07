@@ -96,20 +96,59 @@ Goal:
 
 ---
 
-# 🎯 Current Focus
+# 🚀 Current Mission
 
-🟢 Android Development
+<table>
+<tr>
+<td width="50%">
 
-🟣 UI/UX Design using Figma
+### 🎯 Building
 
-🔵 Learning Clean Architecture
+- 📱 Modern Android Applications
+- 🎨 Pixel Perfect UI Design
+- ⚡ Responsive Mobile Experiences
+- 🔥 Clean Architecture Projects
 
-🟢 Firebase Integration
+</td>
 
-🟡 Mobile App Projects
+<td width="50%">
+
+### 🌱 Learning
+
+- 🟢 Jetpack Compose
+- 🔵 Firebase Ecosystem
+- 🟣 Material Design 3
+- ⚙️ MVVM Architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
+<div align="center">
+
+## 💡 What I'm Working On
+
+```text
+📱 Android Apps      ██████████░░ 80%
+🎨 UI/UX in Figma    ███████████░ 90%
+🔥 Java              █████████░░░ 75%
+☁ Firebase          ███████░░░░░ 60%
+🧠 Problem Solving   ████████░░░░ 70%
+```
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Publish my first Android App
+- 🎨 Master Figma & Design Systems
+- 📚 Learn Jetpack Compose
+- 🔥 Build Full-Stack Mobile Projects
+- 🌍 Contribute to Open Source
 # ❤️ Favorite Tools
 
 <p>
