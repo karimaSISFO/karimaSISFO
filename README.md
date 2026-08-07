@@ -142,13 +142,7 @@ Goal:
 
 ---
 
-## 🎯 2026 Goals
 
-- 🚀 Publish my first Android App
-- 🎨 Master Figma & Design Systems
-- 📚 Learn Jetpack Compose
-- 🔥 Build Full-Stack Mobile Projects
-- 🌍 Contribute to Open Source
 # ❤️ Favorite Tools
 
 <p>
