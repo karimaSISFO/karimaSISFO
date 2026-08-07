@@ -1,111 +1,140 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:c9b6e4,50:a8d8ea,100:b8f2e6&height=220&section=header&text=Karima&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=UI/UX+Designer+·+Mobile+Developer+·+Network+Engineer&descAlignY=62&descSize=15&fontDescColor=f0e6ff" width="100%"/>
+# Hi 👋, I'm RM
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=700&lines=Android+Developer;UI%2FUX+Designer;Figma+Enthusiast;Always+Learning+New+Things" />
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=20&duration=3000&pause=800&color=9b72cf&background=00000000&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Karima+;UI%2FUX+Designer+who+codes+✦;Flutter+%26+Laravel+Developer;Network+Engineer+in+Training+;Crafting+beautiful+digital+experiences+)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:3DDC84,100:00C2FF&height=220&section=header&text=Welcome%20To%20My%20Github&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
 
-## ✦ About Me
+# 👨‍💻 About Me
 
-```
-name        : Karima
-university  : Universitas Muslim Indonesia
-location    : Makassar, Indonesia 
-focus       : UI/UX Design · Mobile Android 
+```yaml
+Name: RM
+Role: Information Systems Student
+Focus:
+  - Android Development
+  - UI/UX Design
+  - Figma
+Currently Learning:
+  - Android Studio
+  - Java
+  - Firebase
+Goal:
+  - Become Android Engineer
 ```
 
 ---
 
-##  Tech Stack
+# 🚀 Tech Stack
 
-<div align="center">
+## 🎨 Design
 
-###  Design & UI/UX
-![Figma](https://img.shields.io/badge/Figma-c9b6e4?style=for-the-badge&logo=figma&logoColor=4a2f7a)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-a8d8ea?style=for-the-badge&logo=adobe-xd&logoColor=1a5f7a)
-![Prototyping](https://img.shields.io/badge/Prototyping-b8f2e6?style=for-the-badge&logo=framer&logoColor=1a5f5a)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
 
-###  Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-c9b6e4?style=for-the-badge&logo=flutter&logoColor=4a2f7a)
-![Dart](https://img.shields.io/badge/Dart-a8d8ea?style=for-the-badge&logo=dart&logoColor=1a5f7a)
-![Android](https://img.shields.io/badge/Android-b8f2e6?style=for-the-badge&logo=android&logoColor=1a5f5a)
+## 📱 Android
 
-###  Backend & Database
-![Laravel](https://img.shields.io/badge/Laravel-c9b6e4?style=for-the-badge&logo=laravel&logoColor=4a2f7a)
-![PHP](https://img.shields.io/badge/PHP-a8d8ea?style=for-the-badge&logo=php&logoColor=1a5f7a)
-![Python](https://img.shields.io/badge/Python-b8f2e6?style=for-the-badge&logo=python&logoColor=1a5f5a)
-![MySQL](https://img.shields.io/badge/MySQL-c9b6e4?style=for-the-badge&logo=mysql&logoColor=4a2f7a)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,firebase"/>
+</p>
 
+## 💻 Programming
 
-### Tools
-![Git](https://img.shields.io/badge/Git-c9b6e4?style=for-the-badge&logo=git&logoColor=4a2f7a)
-![GitHub](https://img.shields.io/badge/GitHub-a8d8ea?style=for-the-badge&logo=github&logoColor=1a5f7a)
-![VS Code](https://img.shields.io/badge/VS%20Code-b8f2e6?style=for-the-badge&logo=visual-studio-code&logoColor=1a5f5a)
-
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,javascript,mysql,git,github"/>
+</p>
 
 ---
 
-##  GitHub Stats
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karimaSISFO&show_icons=true&hide_border=true&bg_color=f0eaff&title_color=9b72cf&icon_color=a8d8ea&text_color=4a2f7a" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=karimaSISFO&hide_border=true&background=f0eaff&ring=9b72cf&fire=a8d8ea&currStreakLabel=9b72cf&sideLabels=4a2f7a&dates=4a2f7a&currStreakNum=4a2f7a&sideNums=4a2f7a" width="49%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karimaSISFO&hide_border=true&bg_color=f0eaff&title_color=9b72cf&text_color=4a2f7a&layout=compact&langs_count=6" width="50%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-##  Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake.svg"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimaSISFO&bg_color=f0eaff&color=9b72cf&line=a8d8ea&point=c9b6e4&area=true&hide_border=true" width="100%"/>
-</picture>
-
-</div>
+</p>
 
 ---
 
-## ✦ Current Focus
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+🟢 Building Android Apps
+
+🟣 Designing Beautiful UI in Figma
+
+🔵 Learning Clean Architecture
+
+🟢 Exploring Firebase
+
+---
+
+# 🌟 Favorite Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://skillicons.dev/icons?i=androidstudio"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/USERNAME_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.figma.com/">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-|  UI/UX Design |  Mobile Apps |  Networking |  Laravel Backend |
-|:-:|:-:|:-:|:-:|
-| Figma · Prototyping | Dart · Android | Cisco · Network Design | PHP · MySQL |
+### 💚 Thanks for visiting!
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&color=3DDC84&style=for-the-badge"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=450&lines=Happy+Coding!;Design+%2B+Android+%3D+❤️"/>
 
 </div>
-
-
-
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=karimaSISFO&label=Profile%20Views&color=9b72cf&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/karimaSISFO?label=Followers&style=for-the-badge&color=a8d8ea&labelColor=c9b6e4)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:b8f2e6,50:a8d8ea,100:c9b6e4&height=120&section=footer" width="100%"/>
