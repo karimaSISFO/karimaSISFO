@@ -114,22 +114,26 @@ Interested In:
 
 # ❤️ Favorite Tools
 
-<p>
+# ❤️ Favorite Tools
 
-<img src="https://skillicons.dev/icons?i=figma"/>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=androidstudio"/>
+<img src="https://skillicons.dev/icons?i=figma" height="55"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=anaconda" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=java"/>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=firebase"/>
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</p>
-
+</div>
 ---
 
 # 🌐 Connect
