@@ -10,6 +10,7 @@
 
 # 👩‍💻 About Me
 Karima
+---
 Currently Learning:
   - Android Development
   - Java
