@@ -9,26 +9,19 @@
 ---
 
 # 👩‍💻 About Me
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=K;Ka;Kar;Kari;Karim;Karima"/>
-```yaml
 Name: Karima
 Role: Information Systems Student
 
 Currently Learning:
   - Android Development
   - Java
-  - Firebase
   - Material Design
 
 Interested In:
   - Android Studio
   - UI/UX Design
-  - Figma
   - Mobile App Development
 
-Goal:
-  Create beautiful and useful Android applications.
-```
 
 ---
 
