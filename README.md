@@ -51,9 +51,6 @@ focus       : UI/UX Design · Mobile Android
 ![Python](https://img.shields.io/badge/Python-b8f2e6?style=for-the-badge&logo=python&logoColor=1a5f5a)
 ![MySQL](https://img.shields.io/badge/MySQL-c9b6e4?style=for-the-badge&logo=mysql&logoColor=4a2f7a)
 
-###  Networking
-![Cisco](https://img.shields.io/badge/Cisco-a8d8ea?style=for-the-badge&logo=cisco&logoColor=1a5f7a)
-![Network Design](https://img.shields.io/badge/Network%20Design-b8f2e6?style=for-the-badge&logo=openwrt&logoColor=1a5f5a)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-c9b6e4?style=for-the-badge&logo=git&logoColor=4a2f7a)
