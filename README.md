@@ -8,9 +8,7 @@
 
 ---
 
-# 👩‍💻 About Me
-Karima
----
+# 👩‍💻 About M
 Currently Learning:
   - Android Development
   - Java
