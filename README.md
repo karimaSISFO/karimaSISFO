@@ -26,8 +26,7 @@
 name        : Karima
 university  : Universitas Muslim Indonesia
 location    : Makassar, Indonesia 
-focus       : UI/UX Design · Mobile Android
-vibe        : Turning ideas into interfaces, one pixel at a time 
+focus       : UI/UX Design · Mobile Android 
 ```
 
 ---
