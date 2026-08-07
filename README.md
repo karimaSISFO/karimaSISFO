@@ -98,17 +98,8 @@ focus       : UI/UX Design · Mobile Android
 
 </div>
 
----
 
-##  Quote
 
-<div align="center">
-
-> *"Stop judge presiden"* ✦
-
-</div>
-
----
 
 <div align="center">
 
