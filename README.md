@@ -79,18 +79,6 @@ Interested In:
 
 ---
 
-
-<td width="50%">
-
-### 🌱 Learning
-
-- 🟢 Jetpack Compose
-- 🔵 Firebase Ecosystem
-- 🟣 Material Design 3
-- ⚙️ MVVM Architecture
-
-</td>
-</tr>
 </table>
 
 ---
@@ -114,7 +102,6 @@ Interested In:
 
 # ❤️ Favorite Tools
 
-# ❤️ Favorite Tools
 
 <div align="center">
 
