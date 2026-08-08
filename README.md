@@ -8,7 +8,7 @@
 
 ---
 
-# 👩‍💻 About M
+# About Rima
 Currently Learning:
   - Android Development
   - Java
@@ -22,9 +22,9 @@ Interested In:
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
-### 🎨 Design
+###  Design
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma"/>
