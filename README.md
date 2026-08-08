@@ -12,7 +12,7 @@
 Currently Learning:
   - Android Development
   - Java
-  - Material Design
+  - Design Grafis
 
 Interested In:
   - Android Studio
@@ -30,13 +30,13 @@ Interested In:
 <img src="https://skillicons.dev/icons?i=figma"/>
 </p>
 
-### 📱 Android
+###  Android
 
 <p>
 <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,firebase"/>
 </p>
 
-### 💻 Programming
+###  Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,cpp,html,css,javascript,mysql,git,github"/>
@@ -90,8 +90,7 @@ Interested In:
 📱 Android Apps      ██████████░░ 80%
 🎨 UI/UX in Figma    ███████████░ 90%
 🔥 Java              █████████░░░ 75%
-☁ Firebase          ███████░░░░░ 60%
-🧠 Problem Solving   ████████░░░░ 70%
+
 ```
 
 </div>
@@ -99,7 +98,7 @@ Interested In:
 ---
 
 
-# ❤️ Favorite Tools
+#  Favorite Tools
 
 
 <div align="center">
