@@ -59,9 +59,9 @@ motto       : "Design is not just what it looks like — it's how it works."
 
 <br/>
 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@karima)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/karima)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/karima)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@karimaSISFO)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/karimaSISFO)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/karimaSISFO)
 
 <br/>
 
@@ -112,7 +112,7 @@ motto       : "Design is not just what it looks like — it's how it works."
 
 ### 🔥 Commit Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karima&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" width="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karimaSISFO&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" width="600"/>
 
 </div>
 
@@ -123,7 +123,7 @@ motto       : "Design is not just what it looks like — it's how it works."
 
 ### 📈 Daily Commit Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karima&bg_color=0D1117&color=A855F7&line=7C3AED&point=FF6B6B&area=true&area_color=A855F720&hide_border=true&custom_title=Karima's%20Daily%20Commit%20Activity" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karimaSISFO&bg_color=0D1117&color=A855F7&line=7C3AED&point=FF6B6B&area=true&area_color=A855F720&hide_border=true&custom_title=Karima's%20Daily%20Commit%20Activity" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -132,9 +132,9 @@ motto       : "Design is not just what it looks like — it's how it works."
 <!-- Stats Cards -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karimaSISFO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimaSISFO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -148,7 +148,7 @@ motto       : "Design is not just what it looks like — it's how it works."
 ### 🌈 Colorful Contribution Grid
 
 <!-- Contribution Calendar with Custom Colors -->
-<img src="https://ghchart.rshah.org/karima" alt="Contribution Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/karimaSISFO" alt="Contribution Graph" width="100%"/>
 
 <br/><br/>
 
@@ -157,9 +157,9 @@ motto       : "Design is not just what it looks like — it's how it works."
 > *Watch the snake devour all those colorful commits — green, yellow, and red!*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karima/karima/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karima/karima/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karima/karima/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 <!-- Fallback snake animation using platane -->
@@ -174,11 +174,11 @@ motto       : "Design is not just what it looks like — it's how it works."
 
 ## 🤝 Let's Connect & Collaborate!
 
-<a href="https://github.com/karima">
+<a href="https://github.com/karimaSISFO">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=karima&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=karimaSISFO&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views"/>
 
 <br/><br/>
 
@@ -196,7 +196,7 @@ motto       : "Design is not just what it looks like — it's how it works."
 ==== SNAKE ANIMATION SETUP ====
 Untuk mengaktifkan snake animation di repo kamu, ikuti langkah berikut:
 
-1. Buat repo baru dengan nama SAMA seperti username GitHub kamu (karima/karima)
+1. Buat repo baru dengan nama SAMA seperti username GitHub kamu (karimaSISFO/karimaSISFO)
 2. Buat folder .github/workflows/
 3. Buat file snake.yml dengan isi berikut:
 
@@ -224,6 +224,6 @@ jobs:
 
 4. Jalankan workflow manually pertama kali dari tab Actions
 5. Ganti URL snake di README ini dengan:
-   https://raw.githubusercontent.com/karima/karima/output/github-contribution-grid-snake-dark.svg
+   https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake-dark.svg
 ==============================
 -->
