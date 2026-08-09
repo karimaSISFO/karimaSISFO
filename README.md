@@ -153,12 +153,7 @@ motto       : "Design is not just what it looks like — it's how it works."
   <img alt="snake animation" src="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake.svg" />
 </picture>
     
-</div>
 
-<!-- Fallback snake animation using platane -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-
-</div>
 
 ---
 
