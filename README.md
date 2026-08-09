@@ -19,13 +19,12 @@ name        : Karima
 university  : Universitas Muslim Indonesia
 major       : Sistem Informasi
 passion     : UI/UX Design & Mobile App Development
-status      : 🎓 Mahasiswa Aktif
-motto       : "Design is not just what it looks like — it's how it works."
+status      : Mahasiswa Aktif
 ```
 
 <div align="center">
 
-🎨 Saya seorang mahasiswa **Sistem Informasi** di **Universitas Muslim Indonesia** yang passionate di bidang **UI/UX Design** dan **Mobile App Development**. Saya percaya bahwa desain yang baik bisa mengubah cara orang berinteraksi dengan teknologi!
+Saya seorang mahasiswa **Sistem Informasi** di **Universitas Muslim Indonesia** Fokus belajar di bidang **UI/UX Design** dan **Mobile App Development**.
 
 <br/>
 
@@ -38,18 +37,15 @@ motto       : "Design is not just what it looks like — it's how it works."
 <!-- SOCIAL MEDIA -->
 <div align="center">
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <br/>
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@karimaSISFO)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/karimaSISFO)
+[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/karimaSISFO](https://www.instagram.com/9karima_/))
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/karimaSISFO)
 
 <br/>
-
-> 💬 *"Feel free to reach out — let's collaborate and build something amazing together!"*
-
 </div>
 
 ---
@@ -57,7 +53,7 @@ motto       : "Design is not just what it looks like — it's how it works."
 <!-- TECH STACK -->
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -86,9 +82,9 @@ motto       : "Design is not just what it looks like — it's how it works."
 <!-- GITHUB STATS -->
 <div align="center">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-### 🔥 Commit Streak
+### Commit Streak
 
 <img src="https://streak-stats.demolab.com?user=karimaSISFO&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" width="600"/>
 
@@ -98,7 +94,7 @@ motto       : "Design is not just what it looks like — it's how it works."
 
 <div align="center">
 
-### 📈 Daily Commit Graph
+### Daily Commit Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimaSISFO&bg_color=0D1117&color=A855F7&line=7C3AED&point=FF6B6B&area=true&hide_border=true&custom_title=Karima%27s%20Daily%20Commit%20Activity" width="100%" alt="Activity Graph"/>
 
@@ -123,9 +119,9 @@ motto       : "Design is not just what it looks like — it's how it works."
 <!-- CONTRIBUTION GRAPH WITH SNAKE -->
 <div align="center">
 
-## 🎮 Contribution Activity
+## Contribution Activity
 
-### 🌈 Colorful Contribution Grid
+### Colorful Contribution Grid
 
 <!-- Profile summary full-width: menampilkan contribution berwarna hijau-kuning-merah -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimaSISFO&theme=tokyonight" width="100%" alt="Contribution Details"/>
@@ -147,7 +143,7 @@ motto       : "Design is not just what it looks like — it's how it works."
 <!-- CONNECT & COLLABORATE -->
 <div align="center">
 
-## 🤝 Let's Connect & Collaborate!
+## Let's Connect & Collaborate!
 
 <a href="https://github.com/karimaSISFO">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow"/>
