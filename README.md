@@ -4,11 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Karima&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=UI/UX%20Designer%20%7C%20Mobile%20App%20Developer&descSize=20&descAlignY=60" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🎨+Crafting+Beautiful+UI%2FUX+Experiences;📱+Building+Stunning+Mobile+Apps;💡+Turning+Ideas+Into+Reality" alt="Typing SVG" />
-</a>
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=🎨+Crafting+Beautiful+UI%2FUX+Experiences;📱+Building+Stunning+Mobile+Apps;💡+Turning+Ideas+Into+Reality;🚀+Sistem+Informasi+%7C+UMI" alt="Typing SVG" />
 
 </div>
 
@@ -36,7 +32,6 @@ motto       : "Design is not just what it looks like — it's how it works."
 
 <br/>
 
-<!-- Animated Pixel Art / Activity -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding animation"/>
 
 </div>
@@ -96,36 +91,43 @@ motto       : "Design is not just what it looks like — it's how it works."
 
 ## 📊 GitHub Stats
 
-</div>
-
-<!-- Commit Streak -->
-<div align="center">
-
 ### 🔥 Commit Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karimaSISFO&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" width="600"/>
+<img src="https://streak-stats.demolab.com?user=karimaSISFO&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" width="600"/>
 
 </div>
 
 <br/>
 
-<!-- Daily Commit Graph -->
 <div align="center">
 
 ### 📈 Daily Commit Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karimaSISFO&bg_color=0D1117&color=A855F7&line=7C3AED&point=FF6B6B&area=true&area_color=A855F720&hide_border=true&custom_title=Karima's%20Daily%20Commit%20Activity" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karimaSISFO&bg_color=0D1117&color=A855F7&line=7C3AED&point=FF6B6B&area=true&hide_border=true&custom_title=Karima%27s%20Daily%20Commit%20Activity" width="100%" alt="Activity Graph"/>
 
 </div>
 
 <br/>
 
-<!-- Stats Cards -->
+<!-- Stats Cards: pakai dua instance berbeda agar tidak kena rate limit -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karimaSISFO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimaSISFO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="180" alt="Top Languages"/>
+<a href="https://github.com/karimaSISFO">
+  <img src="https://github-readme-stats.vercel.app/api?username=karimaSISFO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=ffffff&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/karimaSISFO">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimaSISFO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- Profile Summary Cards (warna-warni & lengkap) -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karimaSISFO&theme=tokyonight" height="150" alt="Stats Card"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karimaSISFO&theme=tokyonight&utcOffset=8" height="150" alt="Productive Time"/>
 
 </div>
 
@@ -138,22 +140,20 @@ motto       : "Design is not just what it looks like — it's how it works."
 
 ### 🌈 Colorful Contribution Grid
 
-<!-- Contribution Calendar with Custom Colors -->
-<img src="https://ghchart.rshah.org/karimaSISFO" alt="Contribution Graph" width="100%"/>
+<!-- Profile summary full-width: menampilkan contribution berwarna hijau-kuning-merah -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimaSISFO&theme=tokyonight" width="100%" alt="Contribution Details"/>
 
-<br/><br/>
+<br/>
 
 ### 🐍 Snake Eating My Contributions!
 
-<div align="center">
-    
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
-    
 
+</div>
 
 ---
 
@@ -171,47 +171,10 @@ motto       : "Design is not just what it looks like — it's how it works."
 <br/><br/>
 
 > 🚀 *Open for collaboration on UI/UX projects, mobile apps, and web development!*
-> 
+>
 > 📩 *DM me on Instagram or Discord — I'd love to connect!*
 
 </div>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-<!-- Snake Setup Guide (hidden comment) -->
-<!--
-==== SNAKE ANIMATION SETUP ====
-Untuk mengaktifkan snake animation di repo kamu, ikuti langkah berikut:
-
-1. Buat repo baru dengan nama SAMA seperti username GitHub kamu (karimaSISFO/karimaSISFO)
-2. Buat folder .github/workflows/
-3. Buat file snake.yml dengan isi berikut:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-4. Jalankan workflow manually pertama kali dari tab Actions
-5. Ganti URL snake di README ini dengan:
-   https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake-dark.svg
-==============================
--->
