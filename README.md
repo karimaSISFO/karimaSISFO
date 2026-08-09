@@ -41,13 +41,11 @@ motto       : "Design is not just what it looks like — it's how it works."
 
 <div align="center">
 
-🎨 Saya seorang mahasiswa **Sistem Informasi** di **Universitas Muslim Indonesia** yang passionate di bidang **UI/UX Design** dan **Mobile App Development**. Saya percaya bahwa desain yang baik bisa mengubah cara orang berinteraksi dengan teknologi!
+🎨 Saya seorang mahasiswa **Sistem Informasi** di **Universitas Muslim Indonesia** Peminatan di bidang **UI/UX Design** dan **Mobile App Development**.!
 
 <br/>
 
 <!-- Animated Pixel Art / Activity -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding animation"/>
-
 </div>
 
 ---
@@ -64,9 +62,6 @@ motto       : "Design is not just what it looks like — it's how it works."
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/karima)
 
 <br/>
-
-> 💬 *"Feel free to reach out — let's collaborate and build something amazing together!"*
-
 </div>
 
 ---
