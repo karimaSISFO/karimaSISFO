@@ -3,9 +3,6 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Karima&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=UI/UX%20Designer%20%7C%20Mobile%20App%20Developer&descSize=20&descAlignY=60" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=🎨+Crafting+Beautiful+UI%2FUX+Experiences;📱+Building+Stunning+Mobile+Apps;💡+Turning+Ideas+Into+Reality;🚀+Sistem+Informasi+%7C+UMI" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -109,17 +106,7 @@ motto       : "Design is not just what it looks like — it's how it works."
 
 <br/>
 
-<!-- Stats Cards: pakai dua instance berbeda agar tidak kena rate limit -->
-<div align="center">
 
-<a href="https://github.com/karimaSISFO">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimaSISFO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF6B6B&text_color=ffffff&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/karimaSISFO">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimaSISFO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
-</a>
-
-</div>
 
 <br/>
 
@@ -169,11 +156,6 @@ motto       : "Design is not just what it looks like — it's how it works."
 <img src="https://komarev.com/ghpvc/?username=karimaSISFO&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views"/>
 
 <br/><br/>
-
-> 🚀 *Open for collaboration on UI/UX projects, mobile apps, and web development!*
->
-> 📩 *DM me on Instagram or Discord — I'd love to connect!*
-
 </div>
 
 <!-- Footer Wave -->
