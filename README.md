@@ -10,15 +10,6 @@
 
 <br/>
 
-<!-- Animated Banner for Interests -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-
-<!-- Wave Animation GIF-like element -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
 </div>
 
 ---
@@ -154,13 +145,15 @@ motto       : "Design is not just what it looks like — it's how it works."
 
 ### 🐍 Snake Eating My Contributions!
 
-> *Watch the snake devour all those colorful commits — green, yellow, and red!*
-
+<div align="center">
+    
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake.svg" />
 </picture>
+    
+</div>
 
 <!-- Fallback snake animation using platane -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
