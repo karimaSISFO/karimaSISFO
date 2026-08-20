@@ -15,7 +15,7 @@
 </div>
 
 ```yaml
-name        : Karima
+name        : Karima, Karimun
 university  : Universitas Muslim Indonesia
 major       : Sistem Informasi
 passion     : UI/UX Design & Mobile App Development
