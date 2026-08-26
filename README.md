@@ -119,16 +119,14 @@ Saya seorang mahasiswa **Sistem Informasi** di **Universitas Muslim Indonesia** 
 <!-- CONTRIBUTION GRAPH WITH SNAKE -->
 <div align="center">
 
-## Contribution Activity
-
-### Colorful Contribution Grid
+## Colorful Contribution Grid
 
 <!-- Profile summary full-width: menampilkan contribution berwarna hijau-kuning-merah -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimaSISFO&theme=tokyonight" width="100%" alt="Contribution Details"/>
 
 <br/>
 
-### 🐍 Snake Eating My Contributions!
+###  Snake Eating My Contributions!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake-dark.svg" />
