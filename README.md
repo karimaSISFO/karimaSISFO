@@ -17,8 +17,7 @@
 name        : Karima
 university  : Universitas Muslim Indonesia
 major       : Sistem Informasi
-passion     : UI/UX Design & Mobile App Development
-status      : Mahasiswa Aktif             
+passion     : UI/UX Design & Mobile App Development            
 ```
 
 <div align="center">
