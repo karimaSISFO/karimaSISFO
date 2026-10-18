@@ -124,7 +124,7 @@ Saya seorang mahasiswa **Sistem Informasi** di **Universitas Muslim Indonesia** 
 
 <br/>
 
-###  Snake Eating My Contributions!
+###  Snake Eating My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karimaSISFO/karimaSISFO/output/github-contribution-grid-snake-dark.svg" />
