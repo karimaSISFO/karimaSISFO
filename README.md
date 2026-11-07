@@ -82,7 +82,7 @@ Saya seorang mahasiswa **Sistem Informasi** di **Universitas Muslim Indonesia** 
 
 ## Stats
 
-### Commit Streak
+### Commit Streak -
 
 <img src="https://streak-stats.demolab.com?user=karimaSISFO&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" width="600"/>
 
