@@ -136,19 +136,6 @@ Saya seorang mahasiswa **Sistem Informasi** di **Universitas Muslim Indonesia** 
 
 ---
 
-<!-- CONNECT & COLLABORATE -->
-<div align="center">
-
-## Let's Connect & Collaborate!
-
-<a href="https://github.com/karimaSISFO">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=karimaSISFO&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views"/>
-
-<br/><br/>
-</div>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
