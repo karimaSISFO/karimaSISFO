@@ -15,7 +15,7 @@
 
 ```yaml
 Name        : Karima
-university  : Universitas Muslim Indonesia
+university  : Universitas Muslim Indonesia (UMI)
 major       : Sistem Informasi
 passion     : UI/UX Design & Mobile App Development          
 ```
